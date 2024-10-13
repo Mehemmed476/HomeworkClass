@@ -1,0 +1,14 @@
+/Users/mehemmedxelilzade/RiderProjects/TaskAboutClasses/TaskAboutClasses/bin/Debug/net8.0/TaskAboutClasses
+/Users/mehemmedxelilzade/RiderProjects/TaskAboutClasses/TaskAboutClasses/bin/Debug/net8.0/TaskAboutClasses.deps.json
+/Users/mehemmedxelilzade/RiderProjects/TaskAboutClasses/TaskAboutClasses/bin/Debug/net8.0/TaskAboutClasses.runtimeconfig.json
+/Users/mehemmedxelilzade/RiderProjects/TaskAboutClasses/TaskAboutClasses/bin/Debug/net8.0/TaskAboutClasses.dll
+/Users/mehemmedxelilzade/RiderProjects/TaskAboutClasses/TaskAboutClasses/bin/Debug/net8.0/TaskAboutClasses.pdb
+/Users/mehemmedxelilzade/RiderProjects/TaskAboutClasses/TaskAboutClasses/obj/Debug/net8.0/TaskAboutClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehemmedxelilzade/RiderProjects/TaskAboutClasses/TaskAboutClasses/obj/Debug/net8.0/TaskAboutClasses.AssemblyInfoInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/TaskAboutClasses/TaskAboutClasses/obj/Debug/net8.0/TaskAboutClasses.AssemblyInfo.cs
+/Users/mehemmedxelilzade/RiderProjects/TaskAboutClasses/TaskAboutClasses/obj/Debug/net8.0/TaskAboutClasses.csproj.CoreCompileInputs.cache
+/Users/mehemmedxelilzade/RiderProjects/TaskAboutClasses/TaskAboutClasses/obj/Debug/net8.0/TaskAboutClasses.dll
+/Users/mehemmedxelilzade/RiderProjects/TaskAboutClasses/TaskAboutClasses/obj/Debug/net8.0/refint/TaskAboutClasses.dll
+/Users/mehemmedxelilzade/RiderProjects/TaskAboutClasses/TaskAboutClasses/obj/Debug/net8.0/TaskAboutClasses.pdb
+/Users/mehemmedxelilzade/RiderProjects/TaskAboutClasses/TaskAboutClasses/obj/Debug/net8.0/TaskAboutClasses.genruntimeconfig.cache
+/Users/mehemmedxelilzade/RiderProjects/TaskAboutClasses/TaskAboutClasses/obj/Debug/net8.0/ref/TaskAboutClasses.dll
