@@ -9,15 +9,11 @@ namespace BankSystem
         {
             BankAccount account = null; 
             bool running = true;
-
+            Messages messages = new Messages();
             while (running)
             {
                 Console.Clear();
-                Console.WriteLine("Welcome to the Bank System!");
-                Console.WriteLine("1. LogOn (Create Account)");
-                Console.WriteLine("2. LogIn (Access Account)");
-                Console.WriteLine("3. Exit");
-                Console.Write("Please choose an option (1-3): ");
+                messages.GetMainMessages();
                 string choice = Console.ReadLine();
 
                 switch (choice)
@@ -69,10 +65,7 @@ namespace BankSystem
                                 Console.Clear();
                                 Console.WriteLine($"User: {newBalance.AccountName}");
                                 Console.WriteLine($"Current Balance: {newBalance.CurrentBalance}\n\n\n");
-                                Console.WriteLine("1 - Deposit Money");
-                                Console.WriteLine("2 - Withdraw Money");
-                                Console.WriteLine("3 - Exit");
-                                Console.Write("Please enter a choice: ");
+                                messages.GetAccountMessages();
                                 choice = Console.ReadLine();
                                 decimal Money;
                             
